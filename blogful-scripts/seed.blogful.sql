@@ -1,0 +1,23 @@
+INSERT INTO blogful_articles (title,date_published,content)
+VALUES 
+('How to Fish',now()-'15 days'::INTERVAL,'This is how to fish.'),
+('How to Blah',now()-'15 days'::INTERVAL,'This is how to blah.'),
+('How to asdf',now()-'15 days'::INTERVAL,'This is how to asdf.'),
+('How to faf43',now()-'15 days'::INTERVAL,'This is how to something.'),
+('How to asdf part 2',now()-'15 days'::INTERVAL,'This is how to asdf better.'),
+('article',now()-'15 days'::INTERVAL,'cool article.'),
+('abother article',now()-'20 days'::INTERVAL,'cool article.'),
+('tedious',now()-'20 days'::INTERVAL,'cool article.'),
+('must be better way',now()-'20 days'::INTERVAL,'cool article.'),
+('with a for loop',now()-'20 days'::INTERVAL,'This is BLAH.'),
+('but i cant',now()-'20 days'::INTERVAL,'This is good article.'),
+('use a for loop',now()-'30 days'::INTERVAL,'This is good article.'),
+('in an sql script',now()-'30 days'::INTERVAL,'This is good article.'),
+('well',now()-'30 days'::INTERVAL,'This is good article.'),
+('then i will just',now()-'30 days'::INTERVAL,'This is some content.'),
+('keep typing',now()-'30 days'::INTERVAL,'This is some content.'),
+('like this',now()-'3 days'::INTERVAL,'This is some content.'),
+('until',now()-'3 days'::INTERVAL,'This is some content.'),
+('i figure out',now()-'3 days'::INTERVAL,'This is some content.'),
+('a better',now()-'3 days'::INTERVAL,'This is some content.'),
+('way',now()-'20 days'::INTERVAL,'This is some content.');
